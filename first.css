@@ -1,0 +1,41 @@
+* {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.sahil {
+    background-color: brown;
+}
+
+.singh {
+    background-color: chartreuse;
+}
+
+.sahil ,.singh {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sahil.super {
+    color: chartreuse;
+}
+
+#sahil#duper {
+    color: chocolate;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
